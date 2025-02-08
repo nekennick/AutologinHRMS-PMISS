@@ -16,8 +16,8 @@
 ## 3. Tải mã nguồn
 ### Cách 1: Clone repository (nếu dùng Git)
 ```sh
-git clone <URL_GITHUB>
-cd <TÊN_THƯ_MỤC>
+git clone https://github.com/nekennick/AutologinHRMS-PMISS.git
+cd <đến thư mục dự án>
 ```
 ### Cách 2: Tải thủ công
 - Truy cập GitHub và nhấn nút "Code" > "Download ZIP"
@@ -32,10 +32,10 @@ pip install -r requirements.txt
 ## 5. Chạy chương trình
 ### Chạy file
 ```sh
-python login.py 
+python login_obf.py
 ```
 
 ## 6. Thông tin thêm
 - Nếu gặp lỗi, hãy kiểm tra lại phiên bản Python và các thư viện đã cài đặt.
-- Liên hệ: [email hoặc GitHub Issues] để được hỗ trợ.
+- Liên hệ: [nekennick@gmail.com hoặc GitHub Issues] để được hỗ trợ.
 
